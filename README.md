@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there! 👋
+
+- 🔭 I’m currently working on the follow up to my published paper EMOTIONET.
+- 🌱 I’m currently learning more ML knowledge and about the GRE to apply to pHD programs..
+- 💬 Ask me about machine learning, or any other various dev topics. 
+- 📫 How to reach me: rydagostino@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I build random robots for fun. 
+
 
 <!--
 **rd16395p/rd16395p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

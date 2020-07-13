@@ -5,7 +5,7 @@
 - 💬 Ask me about machine learning, or any other various dev topics. 
 - 📫 How to reach me: rydagostino@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I build random robots for fun. 
+- ⚡ Fun fact: I build random robots for fun and I have been invited to tensorflow summit in 2019 and 2020!
 
 
 <!--

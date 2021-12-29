@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-- 🔭 I’m currently working on the follow up to my published paper EMOTIONET.
+- 🔭 I’m currently working on CysPred, a medical machine learning publication!
 - 🌱 I’m currently learning about various topics within AI & ML, full stack development, and more!
 - 💬 Ask me about machine learning, or any other various dev topics. 
 - 📫 How to reach me: rydagostino@gmail.com
